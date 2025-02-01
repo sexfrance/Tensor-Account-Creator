@@ -1,0 +1,5 @@
+logmagix==2.0.10
+patchright==1.48.0.post0
+Requests==2.32.3
+git+https://github.com/Nintendocustom/Python-Tls-Client.git
+toml==0.10.2

@@ -132,6 +132,7 @@ class Miscellaneous:
     class Title:
         def __init__(self) -> None:
             self.running = False
+            self.is_windows = hasattr(ctypes, 'windll')
 
         def start_title_updates(self, total, start_time) -> None:
             self.running = True
@@ -146,9 +147,11 @@ class Miscellaneous:
 
         def update_title(self, total, start_time) -> None:
             try:
+                if not self.is_windows:
+                    return  # Skip title updates on non-Windows systems
+                    
                 elapsed_time = round(time.time() - start_time, 2)
                 title = f'discord.cyberious.xyz | Total: {total} | Time Elapsed: {elapsed_time}s'
-
                 sanitized_title = ''.join(c if c.isprintable() else '?' for c in title)
                 ctypes.windll.kernel32.SetConsoleTitleW(sanitized_title)
             except Exception as e:

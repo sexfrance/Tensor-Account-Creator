@@ -1,0 +1,2 @@
+# Generated accounts will be saved here
+# Format: email:password

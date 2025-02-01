@@ -1,0 +1,7 @@
+[ data ]
+Affiliate_Link = "" # "" = Wont use affiliate link e.g: https://tensor.art?source_id=kTy0oVnka0a2rfMvaXbz9BMl
+
+[ dev ]
+Debug = false
+Proxyless = true
+Threads = 3

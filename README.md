@@ -75,7 +75,9 @@
 ---
 
 ### 📹 Preview
-![Preview](https://i.ibb.co/TDmGxCDD/Windows-Terminal-olqseb7cz-J.gif)
+![Preview](https://i.imgur.com/OkmhlBO.gif)
+
+*If the embed does not load: https://i.imgur.com/OkmhlBO.gif*
 ---
 
 ### ❗ Disclaimers

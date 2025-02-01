@@ -75,10 +75,8 @@
 ---
 
 ### 📹 Preview
-<div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OkmhlBO" data-context="false" ><a href="//i.imgur.com/OkmhlBO.gif"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<div>
-  ---
+![Preview](https://images-ext-1.discordapp.net/external/6_ewFw6sY-FPHLLf7FqcJANlmGdT8Vz7YLP2jxQTORw/https/i.imgur.com/OkmhlBO.mp4)
+---
 
 ### ❗ Disclaimers
 

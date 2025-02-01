@@ -75,9 +75,10 @@
 ---
 
 ### 📹 Preview
-
+<div align="center">
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/OkmhlBO" data-context="false" ><a href="//i.imgur.com/OkmhlBO.gif"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
----
+<div>
+  ---
 
 ### ❗ Disclaimers
 

@@ -75,7 +75,7 @@
 ---
 
 ### 📹 Preview
-![Preview](https://images-ext-1.discordapp.net/external/6_ewFw6sY-FPHLLf7FqcJANlmGdT8Vz7YLP2jxQTORw/https/i.imgur.com/OkmhlBO.mp4)
+![Preview](https://i.ibb.co/TDmGxCDD/Windows-Terminal-olqseb7cz-J.gif)
 ---
 
 ### ❗ Disclaimers
